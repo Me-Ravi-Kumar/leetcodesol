@@ -6,6 +6,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
