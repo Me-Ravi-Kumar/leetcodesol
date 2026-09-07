@@ -1,20 +1,40 @@
 class Solution {
 public:
-    int distinctSubseqII(string s) {
-        const int MOD = 1e9 + 7;
+    int M = 1e9 + 7;
+    int dp[2001];
+    vector<int> prev;
 
-        long long dp = 0;
-        vector<long long> last(26, 0);
+    int solve(int n) {
+        if (n == 0)
+            return 1;
 
-        for (char c : s) {
-            int x = c - 'a';
+        if (dp[n] != -1)
+            return dp[n];
 
-            long long newDp = (2 * dp + 1 - last[x]) % MOD;
+        int total = (2 * solve(n - 1)) % M;
 
-            last[x] = dp + 1;
-            dp = (newDp + MOD) % MOD;
+        if (prev[n] != 0) {
+            int duplicates = solve(prev[n] - 1);
+            total = (total - duplicates + M) % M;
         }
 
-        return dp;
+        return dp[n] = total;
+    }
+
+    int distinctSubseqII(string s) {
+        int n = s.length();
+
+        memset(dp, -1, sizeof(dp));
+        prev.assign(n + 1, 0);
+
+        vector<int> lastSeen(26, 0);
+        for (int i = 1; i <= n; i++) {
+            int idx = s[i - 1] - 'a';
+
+            prev[i] = lastSeen[idx];
+            lastSeen[idx] = i;
+        }
+
+        return (solve(n) - 1 + M) % M;
     }
 };
