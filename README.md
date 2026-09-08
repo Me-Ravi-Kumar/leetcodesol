@@ -36,6 +36,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
