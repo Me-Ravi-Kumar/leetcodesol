@@ -13,7 +13,6 @@ public:
                 end = start * 1000 - 1;
                 end = min(end, n);
             }
-
             long long count = end - start + 1;
 
             ans += count * commas;
