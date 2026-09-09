@@ -24,7 +24,6 @@ public:
             start *= 1000;
             commas++;
         }
-
         return ans;
     }
 };
