@@ -11,6 +11,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -20,6 +21,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -67,4 +69,12 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
