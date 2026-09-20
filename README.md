@@ -56,6 +56,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +95,8 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
