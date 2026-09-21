@@ -12,6 +12,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0835-image-overlap) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -86,10 +87,12 @@ i am solving leetcode problems on this branch and making my code public
 ## Binary Search
 |  |
 | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -99,4 +102,8 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3498-reverse-degree-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
