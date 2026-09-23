@@ -13,6 +13,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0835-image-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3525-find-x-value-of-array-ii) |
@@ -25,6 +26,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -52,6 +54,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -90,6 +93,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -112,4 +116,8 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3525-find-x-value-of-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
