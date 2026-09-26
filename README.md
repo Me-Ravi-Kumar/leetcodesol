@@ -16,6 +16,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0835-image-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3525-find-x-value-of-array-ii) |
@@ -30,6 +31,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -66,6 +68,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
