@@ -68,6 +68,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -132,4 +133,12 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0039-combination-sum](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
