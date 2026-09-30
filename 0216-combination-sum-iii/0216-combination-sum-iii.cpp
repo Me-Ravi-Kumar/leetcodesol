@@ -1,7 +1,5 @@
 class Solution {
-    void find(int k, int n, int i,
-              vector<vector<int>> &ans,
-              vector<int> &ds) {
+    void find(int k, int n, int i, vector<vector<int>>& ans, vector<int>& ds) {
         if (k == 0) {
             if (n == 0)
                 ans.push_back(ds);
@@ -15,6 +13,7 @@ class Solution {
             ds.pop_back();
         }
     }
+
 public:
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>> ans;
