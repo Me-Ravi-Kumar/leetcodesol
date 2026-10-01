@@ -73,6 +73,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -149,12 +150,14 @@ i am solving leetcode problems on this branch and making my code public
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
