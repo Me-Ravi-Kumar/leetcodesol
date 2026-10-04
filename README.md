@@ -77,6 +77,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -89,6 +90,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -157,6 +159,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0020-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -165,7 +168,12 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0020-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
