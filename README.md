@@ -79,6 +79,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -162,6 +163,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -172,6 +174,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -179,4 +182,5 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
