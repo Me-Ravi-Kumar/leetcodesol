@@ -47,6 +47,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -77,6 +78,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0032-longest-valid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -156,6 +158,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0090-subsets-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
