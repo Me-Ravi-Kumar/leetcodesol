@@ -1,43 +1,32 @@
-
 class Solution {
 public:
-    long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1,int k2) {
+    long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
         int n = nums1.size();
-        long long op = (long long)k1 + k2;
-
         vector<int> diff(n);
-        int maxDiff = 0;
-        long long total = 0;
-
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; ++i) {
             diff[i] = abs(nums1[i] - nums2[i]);
-            maxDiff = max(maxDiff, diff[i]);
-            total += diff[i];
         }
 
-        if (op >= total)
-            return 0;
+        int maxDiff = *max_element(diff.begin(), diff.end());
 
-        vector<int> freq(maxDiff + 1, 0);
-
+        vector<int> countDiff(maxDiff + 1, 0);
         for (int d : diff) {
-            freq[d]++;
+            countDiff[d]++;
         }
 
-        for (int d = maxDiff; d > 0 && op > 0; d--) {
-            int take = min((long long)freq[d], op);
+        int K = k1 + k2;
 
-            freq[d] -= take;
-            freq[d - 1] += take;
-            op -= take;
+        for (int currDiff = maxDiff; currDiff > 0 && K > 0; currDiff--) {
+            int countOps = min(countDiff[currDiff], K);
+            countDiff[currDiff] -= countOps;
+            countDiff[currDiff - 1] += countOps;
+            K -= countOps;
         }
 
-        long long ans = 0;
-
-        for (int d = 0; d <= maxDiff; d++) {
-            ans += 1LL * d * d * freq[d];
+        long long result = 0;
+        for (long long d = 1; d <= maxDiff; ++d) {
+            result += countDiff[d] * d * d;
         }
-
-        return ans;
+        return result;
     }
 };
