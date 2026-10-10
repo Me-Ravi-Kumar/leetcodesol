@@ -20,6 +20,7 @@ i am solving leetcode problems on this branch and making my code public
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3525-find-x-value-of-array-ii) |
@@ -124,11 +125,13 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -193,4 +196,9 @@ i am solving leetcode problems on this branch and making my code public
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
