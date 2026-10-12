@@ -22,6 +22,7 @@ i am solving leetcode problems on this branch and making my code public
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3525-find-x-value-of-array-ii) |
@@ -38,6 +39,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -45,6 +47,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0078-subsets](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0090-subsets-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -199,6 +202,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
