@@ -207,4 +207,8 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
