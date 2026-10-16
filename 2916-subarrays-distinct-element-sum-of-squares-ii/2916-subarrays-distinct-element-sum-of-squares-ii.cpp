@@ -29,7 +29,7 @@ private:
     vector<long> squaredSums;
 
     void updateRange(int i, int start, int end, int l, int r) {
-        if (lazy[i] >= 0)
+        if (lazy[i] > 0)
             propagate(i, start, end);
         if (end < l || start > r)
             return;
