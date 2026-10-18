@@ -18,6 +18,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0216-combination-sum-iii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0216-combination-sum-iii) |
 | [0835-image-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0835-image-overlap) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -67,6 +68,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3525-find-x-value-of-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -108,10 +110,12 @@ i am solving leetcode problems on this branch and making my code public
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0940-distinct-subsequences-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -120,6 +124,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -224,4 +229,28 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
