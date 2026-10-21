@@ -34,6 +34,7 @@ i am solving leetcode problems on this branch and making my code public
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -77,6 +78,7 @@ i am solving leetcode problems on this branch and making my code public
 | [3871-count-commas-in-range-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +139,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +156,7 @@ i am solving leetcode problems on this branch and making my code public
 | [2333-minimum-sum-of-squared-difference](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
