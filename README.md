@@ -17,6 +17,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0090-subsets-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0216-combination-sum-iii) |
 | [0835-image-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1254-number-of-closed-islands) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -62,11 +63,13 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -128,6 +131,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -251,6 +255,7 @@ i am solving leetcode problems on this branch and making my code public
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
