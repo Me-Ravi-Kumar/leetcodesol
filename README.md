@@ -8,6 +8,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0138-copy-list-with-random-pointer) |
+| [0876-middle-of-the-linked-list](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
 |  |
@@ -178,6 +179,7 @@ i am solving leetcode problems on this branch and making my code public
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Segment Tree
 |  |
