@@ -15,6 +15,7 @@ i am solving leetcode problems on this branch and making my code public
 | ------- |
 | [0039-combination-sum](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0216-combination-sum-iii) |
@@ -204,6 +205,7 @@ i am solving leetcode problems on this branch and making my code public
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Me-Ravi-Kumar/leetcodesol/tree/master/0131-palindrome-partitioning) |
